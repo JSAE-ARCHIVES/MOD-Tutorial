@@ -1,7 +1,8 @@
-# 3-3 blenderの導入
+# 3-3 使用するシフトの導入
 # やること
 1. blenderをインストールし初期設定を行います。  
 1. blenderの基本操作を学習します。
+1. ksEditorをダウンロードして起動できる状態にします．
 # blenderとは？  
 ![blender_logo_socket](https://user-images.githubusercontent.com/81402033/122319391-89743500-cf5b-11eb-8c16-8e6cd646870a.png)
 
@@ -67,6 +68,10 @@ NVIDIA製のグラフィックボードを搭載してるPCの場合、チェッ
 [blenderチュートリアル](https://www.google.com/search?q=blender+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB&rlz=1C1ASUM_enJP944JP944&oq=blender+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB&aqs=chrome..69i57.4696j0j4&sourceid=chrome&ie=UTF-8)等で検索するとたくさんヒットするのでわからないことがあったら検索してください。  
 
 以上でblenderの導入は終了です。
+
+# ksEditorとは？
+作成した3Dモデル(.fbx形式)をAssettoCorsa用の形式（.kn5）に変換します．  
+マテリアルの質感の設定もksEditor上で行います．  
 
 # KsEditorのインストール
 [こちら](https://ascobash.wordpress.com/2015/07/22/kseditor/)のサイトにアクセスし，Download(v6)をクリック．  
