@@ -66,7 +66,15 @@ NVIDIA製のグラフィックボードを搭載してるPCの場合、チェッ
 [blenderの視点操作](https://blender-cg.net/mausu-sitenn/)  
 [blenderチュートリアル](https://www.google.com/search?q=blender+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB&rlz=1C1ASUM_enJP944JP944&oq=blender+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB&aqs=chrome..69i57.4696j0j4&sourceid=chrome&ie=UTF-8)等で検索するとたくさんヒットするのでわからないことがあったら検索してください。  
 
-以上で`3-3 blenderの導入`は終了です。
+以上でblenderの導入は終了です。
+
+# KsEditorのインストール
+[こちら](https://ascobash.wordpress.com/2015/07/22/kseditor/)のサイトにアクセスし，Download(v6)をクリック．  
+ロシア語？のダウンロードサイトが表示されるので右下の白いボタンをクリックするとダウンロードが開始されます．  
+ダウンロードしたzipファイルを展開するとたくさんファイルが入っていますが，ksEditor.exeというファイルを使用します．  
+インストールせずにその都度.exeファイルを開いて起動するので展開したフォルダをわかりやすい場所に置いておくとよいでしょう．  
+ksEditorは何度も起動することになると思うので，ショートカットを作成してデスクトップに置いておくか，起動してからタスクバーにピン止めすると便利です．  
+
 
 | Back | Next |
 |:---:|:---:|
