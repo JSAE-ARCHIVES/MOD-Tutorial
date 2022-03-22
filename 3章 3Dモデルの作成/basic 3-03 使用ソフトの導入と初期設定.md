@@ -63,7 +63,9 @@ NVIDIA製のグラフィックボードを搭載してるPCの場合、チェッ
 
 ### シーン統計情報の表示
 右下のバージョン情報が書いてある部分を右クリック→シーン統計  
-で超点数，ポリゴン数等が確認できる．
+で超点数，ポリゴン数等が確認できる．  
+![シーン統計を表示](https://user-images.githubusercontent.com/81402033/159412118-a391e766-9c74-4e08-939a-06488854c2c2.png)
+
 # blenderの基本操作
 
 [blender基本操作](https://czpanel.com/lecture/blender/basic/operation/)  
