@@ -61,6 +61,9 @@ NVIDIA製のグラフィックボードを搭載してるPCの場合、チェッ
 
 ![blender初期設定プリファレンスを保存](https://user-images.githubusercontent.com/81402033/122318501-1918e400-cf5a-11eb-80f4-7cba8123bae1.jpg)
 
+### シーン統計情報の表示
+右下のバージョン情報が書いてある部分を右クリック→シーン統計  
+で超点数，ポリゴン数等が確認できる．
 # blenderの基本操作
 
 [blender基本操作](https://czpanel.com/lecture/blender/basic/operation/)  
