@@ -15,6 +15,14 @@ Blender内での質感設定は後の工程で出てくるksEditor上では反�
 これでマテリアルの色情報は画像を参照するようになりました．  
 ![マテリアルの設定](https://user-images.githubusercontent.com/81402033/159413164-4d296762-c90d-48ef-902c-9d94f1737086.png)
 
+### テクスチャ画像をblender内で作成する場合
+`新規`で追加する画像の設定が出てくるので，画像名と解像度，色を設定して`OK`をクリック  
+![テクスチャ画像をblenderで作成](https://user-images.githubusercontent.com/81402033/159416150-d2fdb89e-6422-4f5c-9080-32c7ce1c12a9.png)
+盾のマークのフェイクユーザーを使用をクリック．これをやらないと度のマテリアルにも割り当てられていない画像は勝手に消えてしまうので注意．  
+![画像のフェイクユーザー](https://user-images.githubusercontent.com/81402033/159416585-12339ab4-ae6e-42f4-b6e7-f6c0fe97bcf7.png)
+UV Editingタブに移動して`画像`>`名前を付けて保存`でtexturesフォルダ内に画像を保存する．
+![作成したテクスチャ画像の保存](https://user-images.githubusercontent.com/81402033/159417138-c8480e2f-ead6-4b6e-9f79-61963874c860.png)
+
 
 作成するマテリアル種類の一例
 ### 簡易的なマテリアルで済ませる場合（4種）
